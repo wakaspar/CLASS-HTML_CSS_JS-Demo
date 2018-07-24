@@ -1,0 +1,25 @@
+body {
+  background-image: url('bg.jpg')
+}
+
+h1 {
+  color:rgb(104, 214, 154);
+  font-size: 3em;
+  font-family: 'Merienda';
+  text-shadow: 1px 1px black;
+  margin: auto;
+  text-align: center;
+}
+
+.img-div {
+  width: 50%;
+  margin: auto;
+}
+
+img {
+  box-shadow: 5px 5px black;
+}
+
+iframe {
+  margin: auto;
+}
